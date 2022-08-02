@@ -1,5 +1,6 @@
 from random import randint
 
+
 class Die():
     """Uma classe que representa um único dado."""
 
